@@ -15,14 +15,6 @@ By leveraging the power of AWS services and machine learning, this project predi
 - **Model Deployment:** Deploy the trained model using AWS SageMaker for real-time predictions.
 - **Monitoring and Refinement:** Continuously monitor model performance and update as needed.
 
-**How to Use:**
-1. Clone the repository: `git clone https://github.com/yourusername/bank_customer_churn_prediction.git`
-2. Navigate to the project directory: `cd bank_customer_churn_prediction`
-3. Install dependencies: `pip install -r requirements.txt`
-4. Run the data processing scripts in `src/data_processing.py`.
-5. Train the model using `src/model_training.py`.
-6. Deploy the model using `src/deployment.py`.
-
 **Results and Evaluation:**
 - **Accuracy:** The model effectively classifies churn and non-churn cases.
 - **Precision:** High precision indicates reliable churn predictions.
