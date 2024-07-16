@@ -15,6 +15,13 @@ By leveraging the power of AWS services and machine learning, this project predi
 - **Model Deployment:** Deploy the trained model using AWS SageMaker for real-time predictions.
 - **Monitoring and Refinement:** Continuously monitor model performance and update as needed.
 
+## How to Use
+1. **AWS Notebook:** Run the code in the provided Jupyter Notebook on AWS.
+2. **Data Connection:** The notebook connects to AWS S3 buckets where the data is stored.
+3. **Data Exploration:** Explore and visualize customer data.
+4. **Model Training:** Train the churn prediction model using the provided data.
+5. **Prediction:** Use the trained model to predict customer churn.
+
 **Results and Evaluation:**
 - **Accuracy:** The model effectively classifies churn and non-churn cases.
 - **Precision:** High precision indicates reliable churn predictions.
@@ -26,3 +33,7 @@ By leveraging the power of AWS services and machine learning, this project predi
 - Streamlined retention programs and reduced unnecessary costs.
 - Highlighted influential factors affecting customer churn.
 
+## Requirements
+- Jupyter Notebook
+- AWS account with access to S3 buckets
+- Necessary Python libraries (specified in the notebook)
