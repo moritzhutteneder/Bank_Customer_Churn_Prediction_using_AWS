@@ -4,9 +4,15 @@
 
 **Problem Description:**
 The main objective is to maximize the bank’s revenue by minimizing unnecessary retention programs and marketing/acquisition costs for new customers by improving the churn model prediction.
+![image](https://github.com/user-attachments/assets/c7b2bd33-9581-4dbb-bc01-d2745cb685ca)
 
 **Solution Overview:**
 By leveraging the power of AWS services and machine learning, this project predicts whether a customer will churn based on historical data. The solution includes data preprocessing, model training, hyperparameter tuning, deployment, and continuous monitoring.
+![image](https://github.com/user-attachments/assets/ac7eb288-d38a-4f09-b8e2-1ddcb0477bed)
+
+**Architecture:**
+![image](https://github.com/user-attachments/assets/a44df8cc-67df-4fc7-8375-99542346c612)
+
 
 **Key Features:**
 - **Data Collection and Cleaning:** Historical customer data is collected, cleaned, and prepared for model training.
@@ -23,10 +29,8 @@ By leveraging the power of AWS services and machine learning, this project predi
 5. **Prediction:** Use the trained model to predict customer churn.
 
 **Results and Evaluation:**
-- **Accuracy:** The model effectively classifies churn and non-churn cases.
-- **Precision:** High precision indicates reliable churn predictions.
-- **F1 Score:** Suggests enhancing recall for better churn identification.
-- **AUC:** Train AUC: 0.9084, Validation AUC: 0.8537
+![image](https://github.com/user-attachments/assets/5bea714c-2399-40a8-b1fd-97d9fc758164)
+
 
 **Conclusion:**
 - Implemented a predictive churn model using XGBoost with high accuracy.
