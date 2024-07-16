@@ -4,7 +4,6 @@
 
 **Problem Description:**
 The main objective is to maximize the bank’s revenue by minimizing unnecessary retention programs and marketing/acquisition costs for new customers by improving the churn model prediction.
-![image](https://github.com/user-attachments/assets/c7b2bd33-9581-4dbb-bc01-d2745cb685ca)
 
 **Solution Overview:**
 By leveraging the power of AWS services and machine learning, this project predicts whether a customer will churn based on historical data. The solution includes data preprocessing, model training, hyperparameter tuning, deployment, and continuous monitoring.
